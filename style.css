@@ -1,0 +1,20 @@
+/* header{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background: black;
+} */
+
+/* header h1{
+    text-align: center;
+    color: brown;
+} */
+
+.error {
+    background-color: #b7322c;
+    padding: 1rem;
+    color: white;
+    font-size: 18px;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-align: center;
+}
